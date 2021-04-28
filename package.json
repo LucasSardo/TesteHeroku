@@ -4,6 +4,7 @@
   "description": "teste do heroku",
   "main": "app.js",
   "scripts": {
+    "start":"node app.js",
     "dev": "nodemon .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
